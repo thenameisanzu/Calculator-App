@@ -58,3 +58,16 @@ button.clear {
 button.clear:hover {
   background-color: #ff4b4b;
 }
+
+button.equals {
+  grid-column: span 1;
+  border-radius: 50%; 
+  width: auto; 
+  height: 60px;
+  font-size: 1.2rem;
+  background-color: #a6f0a6;
+  color: black;
+}
+button.equals:hover {
+  background-color: #CADCAE;
+}
